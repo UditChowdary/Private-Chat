@@ -1,10 +1,10 @@
-Private Chats – Real-Time Messaging Web App
+**Private Chats – Real-Time Messaging Web App**
 
 Private Chats is a lightweight real-time text messaging web application built using HTML, CSS, JavaScript, PHP, and MySQL.
 It allows users to sign up, log in, view friends, and chat privately in a clean, simple UI.
 
-🚀 Features
-🔐 User System
+**🚀 Features
+🔐 User System**
 
 Sign Up / Create account
 
@@ -12,7 +12,7 @@ Secure Login
 
 Session-based authentication
 
-💬 Private Chat System
+**💬 Private Chat System**
 
 One-to-one real-time messaging (AJAX-based)
 
@@ -22,7 +22,7 @@ Friends list with last conversation preview
 
 Conversations UI layout
 
-🖥️ Interface
+**🖥️ Interface**
 
 Login Page
 
@@ -36,7 +36,7 @@ Friends section
 
 Last message preview
 
-⚙️ Extra Functionality
+**⚙️ Extra Functionality**
 
 Settings page
 
@@ -50,7 +50,7 @@ Text-only messages supported
 
 Work in progress for future expansions
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend
 
@@ -72,7 +72,8 @@ Visual Studio Code
 
 XAMPP / WAMP / LAMP for local server
 
-📁 Project Structure
+**📁 Project Structure**
+ 
 main_web_project/
 │── index.php          # Homepage / redirect logic
 │── login.php          # Login functionality
@@ -85,7 +86,7 @@ main_web_project/
 │── chatapp.sql        # Database schema
 │── readme.md          # Original readme
 
-🗄️ Database Setup
+**🗄️ Database Setup**
 
 Create a MySQL database named chatapp.
 
@@ -93,7 +94,7 @@ Import chatapp.sql using phpMyAdmin.
 
 Ensure database credentials in PHP match your local server settings.
 
-▶️ How to Run
+**▶️ How to Run**
 
 Copy the project folder into your server directory:
 
@@ -110,7 +111,7 @@ http://localhost/main_web_project/
 
 Create an account and start chatting inside Private Chats.
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 Support for media messages
 
@@ -124,7 +125,7 @@ Modernized UI with animations
 
 Push notifications
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Udit Chowdary
 Private Chats Project — 5th Semester
