@@ -73,18 +73,8 @@ Visual Studio Code
 XAMPP / WAMP / LAMP for local server
 
 **📁 Project Structure**
- 
-main_web_project/
-│── index.php          # Homepage / redirect logic
-│── login.php          # Login functionality
-│── users.php          # Display list of users/friends
-│── chat.php           # Chat screen + messaging logic
-│── header.php         # Common UI header
-│── style.css          # Application styling
-│── javascript/        # JS scripts for updates and chat
-│── php/               # Backend helper scripts
-│── chatapp.sql        # Database schema
-│── readme.md          # Original readme
+
+<img width="746" height="483" alt="image" src="https://github.com/user-attachments/assets/7759adce-df1f-46d9-9c3a-e11ada1a895e" />
 
 **🗄️ Database Setup**
 
