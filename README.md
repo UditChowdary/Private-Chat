@@ -1,4 +1,4 @@
-**Private Chats – Real-Time Messaging Web App**
+# Private Chats – Real-Time Messaging Web App
 
 Private Chats is a lightweight real-time text messaging web application built using HTML, CSS, JavaScript, PHP, and MySQL.
 It allows users to sign up, log in, view friends, and chat privately in a clean, simple UI.
